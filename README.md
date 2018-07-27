@@ -1,7 +1,7 @@
 ## Exploratory-Analysis-of-Trump-Texts
 Installation of R packages
 Packages can be defined as the fundamental unit of sharing code consisting of a bundle of code, data, documentation and tests which are stored in the library. The packages required for text mining of trump.txt are listed in the needed vector and downloaded by using install.packages() and called by library() function.
-•	tm- text mining framework in R.
+•	tm- text mining framework in R. \n
 •	SnowballC- function that extracts the stem of each given word in the vector.
 •	RColorBrewer – creates color palettes for thematic maps.
 •	Ggplot2- creates graphics on the basis of declaring the primitives and the variables to be mapped on the aesthetic.
